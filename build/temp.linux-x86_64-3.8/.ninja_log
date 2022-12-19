@@ -1,0 +1,8 @@
+# ninja log v5
+0	86	1671439009135766437	/home/yf22/fairseq/build/temp.linux-x86_64-3.8/fairseq/clib/libbleu/module.o	a40c64bc700ceb5e
+0	260	1671439009309766428	/home/yf22/fairseq/build/temp.linux-x86_64-3.8/fairseq/clib/libbleu/libbleu.o	743b171d129bbfff
+0	3701	1671439013088766232	/home/yf22/fairseq/build/temp.linux-x86_64-3.8/fairseq/data/data_utils_fast.o	ed85b0fc87c4ee10
+0	3929	1671439017111766024	/home/yf22/fairseq/build/temp.linux-x86_64-3.8/fairseq/data/token_block_utils_fast.o	707695e4f340ee80
+0	17449	1671439034653765114	/home/yf22/fairseq/build/temp.linux-x86_64-3.8/fairseq/clib/libbase/balanced_assignment.o	9f19edc8264b9c60
+0	13234	1671439048309764406	/home/yf22/fairseq/build/temp.linux-x86_64-3.8/fairseq/clib/libnat/edit_dist.o	4220391ace03eb70
+0	17550	1671439066237763477	/home/yf22/fairseq/build/temp.linux-x86_64-3.8/examples/operators/alignment_train_cpu.o	b9672725f0ca25e7
