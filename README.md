@@ -15,7 +15,7 @@ Accepted at NeurIPS 2022. [ [Paper](https://arxiv.org/pdf/2211.01522.pdf) | [Vid
 - **Key idea**: Finetune model connections instead of model weights via optimizing language-/task-specific binary masks on top of shared weights inherited from pretrained speech SSL models.
 
 <p align="center">
-  <img src="images/overview.png" width="800">
+  <img src="images/overview.png" width="700">
 </p>
 
 
@@ -26,7 +26,7 @@ Accepted at NeurIPS 2022. [ [Paper](https://arxiv.org/pdf/2211.01522.pdf) | [Vid
 - **Insight**: Tuning model connections instead of weights can reduce overfitting on low-resource speech.
 
 <p align="center">
-  <img src="images/finetuning.png" width="800">
+  <img src="images/finetuning.png" width="700">
 </p>
 
 
@@ -36,7 +36,7 @@ Accepted at NeurIPS 2022. [ [Paper](https://arxiv.org/pdf/2211.01522.pdf) | [Vid
 
 
 <p align="center">
-  <img src="images/multilingual.png" width="580">
+  <img src="images/multilingual.png" width="550">
 </p>
 
 
@@ -46,7 +46,7 @@ Accepted at NeurIPS 2022. [ [Paper](https://arxiv.org/pdf/2211.01522.pdf) | [Vid
 
 
 <p align="center">
-  <img src="images/asr_pruning.png" width="800">
+  <img src="images/asr_pruning.png" width="700">
 </p>
 
 
@@ -56,7 +56,7 @@ Accepted at NeurIPS 2022. [ [Paper](https://arxiv.org/pdf/2211.01522.pdf) | [Vid
 
 
 <p align="center">
-  <img src="images/analysis.png" width="550">
+  <img src="images/analysis.png" width="500">
 </p>
 
 
