@@ -69,8 +69,6 @@ Our code is built on top of [[Fairseq]](https://github.com/facebookresearch/fair
 * **To install fairseq** and develop locally:
 
 ``` bash
-git clone https://github.com/pytorch/fairseq
-cd fairseq
 pip install --editable ./
 ```
 
