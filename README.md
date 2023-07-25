@@ -1,7 +1,7 @@
 # Losses Can Be Blessings: Routing Self-Supervised Speech Representations Towards Efficient Multilingual and Multitask Speech Processing
 **Yonggan Fu**, Yang Zhang, Kaizhi Qian, Zhifan Ye, Zhongzhi Yu, Cheng-I Lai, Yingyan (Celine) Lin
 
-Accepted at NeurIPS 2022. [ [Paper](https://arxiv.org/pdf/2211.01522.pdf) | [Video](https://www.youtube.com/watch?v=eacbr28Ygn8&t=45s) | [Slide](https://drive.google.com/file/d/11NVFYijZ8g6Imt-tu4NjDxidyMveu-Gl/view?usp=sharing) ]
+Accepted at NeurIPS 2022. [ [Paper](https://arxiv.org/pdf/2211.01522.pdf) | [Video](https://www.youtube.com/watch?v=eacbr28Ygn8) | [Slide](https://drive.google.com/file/d/11NVFYijZ8g6Imt-tu4NjDxidyMveu-Gl/view?usp=sharing) ]
 
 
 ## S<sup>3</sup>-Router: Overview
